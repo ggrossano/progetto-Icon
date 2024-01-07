@@ -6,5 +6,5 @@ Matricola: 736792
 Email: m.balzano14@studenti.uniba.it
 
 Gabriele Grossano
-Matricola:
-Email:
+Matricola: 697881
+Email: g.grossano@studenti.uniba.it
